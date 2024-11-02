@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently studying in Alparslan Türkeş University in Turkey.
+- 🤔 I’m looking for help with tips and tricks in Software Development.
+- 📫 How to reach me: toprakkanber@gmail.com
+
 <!--
 **Wadademq/Wadademq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
